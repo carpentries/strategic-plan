@@ -1,6 +1,6 @@
 # The Carpentries Strategic Plan
 
-This repository contains documentation on the progress The Carpentries is making towards its 3-5 year Strategic Plan. It is intended to provide transparency to the Carpentries community.
+This repository contains documentation on the progress The Carpentries is making towards its Strategic Plan for 2020-2025. It is intended to provide transparency to the Carpentries community.
 
 [The Carpentries Strategic Plan](https://github.com/carpentries/strategic-plan/blob/carpentries-ed/strategic-plan.md),
 lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The Strategic Plan provides a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs – Data Carpentry, Library Carpentry, and Software Carpentry – may also have their own goals and objectives related to their specific programs and curricula.
