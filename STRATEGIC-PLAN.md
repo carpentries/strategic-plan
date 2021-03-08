@@ -2,7 +2,7 @@
 
 The Carpentries was founded in January 2018 via the merger of Software Carpentry and Data Carpentry and was joined later that year by Library Carpentry. All three of these organisations have been dedicated to teaching computing and data skills to their various communities. United under The Carpentries we have the opportunity to work together toward a bigger and broader vision of the future.
 
-This Strategic Plan describes how the [Executive Council](https://static.carpentries.org/governance/) and The Carpentries [Core Team](https://carpentries.org/team/) see the path forward toward that future. It lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The idea is to provide a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs – Data Carpentry, Library Carpentry, and Software Carpentry – may also have their own goals and objectives related to their specific programs and curricula.
+This Strategic Plan describes how the [Executive Council](https://carpentries.org/governance/) and The Carpentries [Core Team](https://carpentries.org/team/) see the path forward toward that future. It lays out six broad goals, each with its rationale and underlying objectives, that will serve as touchpoints to guide our future actions. The idea is to provide a general framework for the direction of this organisation for the next 3-5 years. This Strategic Plan speaks to The Carpentries as a whole. Each of the individual Lesson Programs – Data Carpentry, Library Carpentry, and Software Carpentry – may also have their own goals and objectives related to their specific programs and curricula.
 
 ## Vision
 
@@ -11,7 +11,8 @@ To be the leading inclusive community teaching computing and data skills.
 ## Mission
 
 The Carpentries builds global capacity in essential data and computational skills for conducting efficient, open, and reproducible research. We train and foster an active, inclusive, diverse community of Learners and Instructors that promotes and models the importance of software and data in research. We collaboratively develop openly-available lessons and deliver these lessons using evidence-based teaching practices. We focus on people conducting and supporting research.
-Strategic Goals and Objectives
+
+## Strategic Goals and Objectives
 
 For the purposes of this page, we define the following terms:
 
@@ -116,4 +117,4 @@ __Objectives__:
 - Encourage Core Team and Community members to serve on advisory boards of other organisations to provide guidance and advocacy in areas key to The Carpentries mission and vision and respond to requests for comments in these areas.
 
 
-For all communications around The Carpentries Strategic Plan, please contact [The Carpentries Executive Council](mailto: carpentries-executive-council@carpentries.org.
+For all communications around The Carpentries Strategic Plan, please contact [The Carpentries Executive Council](mailto: carpentries-executive-council@carpentries.org).
