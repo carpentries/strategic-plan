@@ -10,7 +10,7 @@ This repository is organized as follows:
   * __team__ -  identifies which team leads the work (i.e. Business, Community Development, Curriculum, Executive/EC, Infrastructure, Instructor Training, Membership, Workshop Administration)
   * __quarter__ - identifies which quarter the project or ongoing work occurs 
   * __goal__ -  identifies which strategic goal the project or ongoing work aligns with. 
-  * __assignee__ - identifies the [Core Team](https://carpentries.org/team/) member who is leading the work
+  * __assignee__ - identifies the [Core Team Lead](https://carpentries.org/team/) for the team that is leading the work.
 
 * [project board](https://github.com/carpentries/strategic-plan/projects/1): presents a basic [kanban style](https://en.wikipedia.org/wiki/Kanban) view of work as follows: __in progress__, __upcoming__, __future work__, and __completed__
 
